@@ -1,6 +1,71 @@
-a
+.container
 {
-	color:#ffbd16;
-	display: block;
-	text-decoration:none;
+	background-color:#e0ddec
 }
+
+.font
+{
+	font-family: 黑体;
+	text-align: center;
+	font-size: 50px;
+}
+
+/*导航栏样式*/
+.black
+{
+	background-color: black;
+	height: 100px;
+	padding-left: 0px;
+	margin-top: 10px;
+	color:#ffbd16;
+	font-size: 30px;
+	font-family: 黑体;
+}
+	a
+	{
+		color:#ffbd16;
+		display: block;
+		text-decoration:none;
+	}
+	a:hover
+	{
+		color:#755914;
+		display: block;
+		text-decoration:none;
+	}
+.daohang
+{
+	text-align: center;
+	margin-top:4%;
+}
+/*导航栏样式结束*/
+
+
+
+
+/*无声动态	样式*/
+#dongtai
+{
+	border: 1px solid;
+	height:700px;
+}
+/*无声动态样式结束*/
+
+/*无声佳作*/
+.jiazuo
+{
+	border: 1px solid;
+	height:1000px;
+}
+/*无声佳作结束*/
+
+/*无声回顾*/
+#huigu
+{
+	border: 1px solid;
+	height:350px;
+	background-image: url(../images/bottom.png);
+}
+/*无声回顾结束*/
+
+
